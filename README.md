@@ -1,6 +1,6 @@
 # Travel Planner - Your Ultimate Travel Companion
 
-![Travel Planner Logo](https://i.imgur.com/LD2MgIe.png)
+![Travel Planner Logo](https://i.imgur.com/aQqQh1I.png)
 
 ## Description
 
